@@ -13,4 +13,4 @@
 
 Demo                       |  Demo                     
 :-------------------------:|:-------------------------:
-![](https://github.com/therezacuet/File-Downloading-on-Background-with-Notification/blob/master/home_page.png) |  ![](https://github.com/therezacuet/File-Downloading-on-Background-with-Notification/blob/master/downloading.png)
+![](https://github.com/therezacuet/PosPrinterDemo-Android-App/blob/master/demo1.JPG) |  ![](https://github.com/therezacuet/PosPrinterDemo-Android-App/blob/master/demo2.jpg)
